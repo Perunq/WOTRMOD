@@ -1,0 +1,13 @@
+{
+	"Id": "WOTRMOD",
+	"DisplayName": "WOTRMOD",
+	"Author": "Perunq",
+	"Version": "1.0",
+	"ManagerVersion": "0.23.3",
+	"Requirements": [],
+	"AssemblyName": "WOTRMOD.dll",
+	"EntryMethod": "WOTRMOD.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Perunq/WOTRMOD/main/WOTRMOD/Repository.json",
+	"HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/##"
+}
+
